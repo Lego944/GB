@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T11:18:52.766Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.91 (Edition Yx)" etag="r2kGUKaRAjo4EXAaRdyL" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T11:46:59.774Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.91 (Edition Yx)" etag="7tr9kQ1-mDLlou9a-rxM" version="20.2.3" type="github">
   <diagram id="5XxlfzZEDkhZM1xjkT80" name="Страница 1">
-    <mxGraphModel dx="868" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="x8kU4ACUzrW3GHUNXtIi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="x8kU4ACUzrW3GHUNXtIi-1" target="x8kU4ACUzrW3GHUNXtIi-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x8kU4ACUzrW3GHUNXtIi-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Массив M&lt;br&gt;размерность N&lt;br&gt;i=0&lt;br&gt;j=0&lt;br&gt;max=0&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="60" width="226" height="140" as="geometry" />
+        <mxCell id="x8kU4ACUzrW3GHUNXtIi-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Массив M&lt;br&gt;размерность N&lt;br&gt;i=0&lt;br&gt;j=0&lt;br&gt;max=0&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="60" width="226" height="170" as="geometry" />
         </mxCell>
         <mxCell id="x8kU4ACUzrW3GHUNXtIi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="1" source="x8kU4ACUzrW3GHUNXtIi-5" target="x8kU4ACUzrW3GHUNXtIi-6">
           <mxGeometry relative="1" as="geometry" />
@@ -24,7 +24,7 @@
         <mxCell id="x8kU4ACUzrW3GHUNXtIi-5" value="j &amp;lt; N-1" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="326" y="270" width="176" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="x8kU4ACUzrW3GHUNXtIi-6" value="Вывод&lt;br&gt;M[i] = min&lt;br&gt;M[i=N-1] = max" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="x8kU4ACUzrW3GHUNXtIi-6" value="Вывод&lt;br&gt;min = M[i]&lt;br&gt;max = M[N-1]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x8kU4ACUzrW3GHUNXtIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="x8kU4ACUzrW3GHUNXtIi-7" target="x8kU4ACUzrW3GHUNXtIi-8">
