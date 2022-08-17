@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T22:11:04.252Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.91 (Edition Yx)" version="20.2.4" etag="wuIvZmxv9vFX5aZCTV55" type="github"><diagram id="4ZvGYglTiJlrcuie3Fwa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-17T22:30:51.969Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.91 (Edition Yx)" etag="RrsdbQqYBJWsGf49ysuC" version="20.2.4" type="github">
+  <diagram id="4ZvGYglTiJlrcuie3Fwa" name="Страница 1">
+    <mxGraphModel dx="1240" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-1" target="KK9puOFsq0zXmg0rtpWx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;массив M&lt;br&gt;размерность N&lt;br&gt;i = 0&lt;br&gt;x = 0&lt;br&gt;y = N&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-2" target="KK9puOFsq0zXmg0rtpWx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-10" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-2" target="KK9puOFsq0zXmg0rtpWx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-2" value="x &amp;lt; N-1" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="305" y="350" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-3" target="KK9puOFsq0zXmg0rtpWx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-14" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-3" target="KK9puOFsq0zXmg0rtpWx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-3" value="i &amp;lt; y-1" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="305" y="560" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-4" target="KK9puOFsq0zXmg0rtpWx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-4" value="t = M[i]&lt;br&gt;M[i] = M[i+1]&lt;br&gt;M[i+1] = t" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="780" width="315" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-5" target="KK9puOFsq0zXmg0rtpWx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-5" value="i = i+1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="580" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="KK9puOFsq0zXmg0rtpWx-6" target="KK9puOFsq0zXmg0rtpWx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-6" value="x = x+1&lt;br&gt;y = y-1&lt;br&gt;i = 0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="590" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-7" value="Вывод M" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KK9puOFsq0zXmg0rtpWx-16" value="&lt;b&gt;Задача 2. Нарисовать блок-схему&lt;br/&gt;Задание на «разворот» массива. Нужно перевернуть массив и&lt;br/&gt;записать его в обратном порядке.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="760" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
